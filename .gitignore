@@ -1,2 +1,4 @@
 *.zip
 *.csv
+__pycache__/
+__MACOSX/
